@@ -9,5 +9,6 @@ switch (condition) {
     const message = 'Hello 2!';
   }
 }
+```
 
 > https://www.instagram.com/p/ChTtaCerK9b/?igshid=YmMyMTA2M2Y%3D
